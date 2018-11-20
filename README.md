@@ -9,11 +9,11 @@ The final two columns ending with “_adj” show the budget and revenue of the 
 
 
 Questions:
-Which genres are more popular and profitable
-Which company make the most profit
-What keywords are the most popular
-Which movies are the most popular or profitable
-The correlation between features
+1.Which genres are more popular and profitable?
+2.Which director make the most profit?
+3.What keywords are the most popular?
+4.Which movies are the most popular or profitable?
+5.The correlation between features?
 
 Procedure
 1. Performed data cleaning(remove NaN values and non relevant features)
