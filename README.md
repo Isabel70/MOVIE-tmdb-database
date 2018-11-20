@@ -1,4 +1,4 @@
-# MOVIE-tmdb-database
+# MOVIE-tmdb-Project
 Exploratory data analysis on TMBD movie data
 
 Introduction
