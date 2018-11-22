@@ -10,9 +10,13 @@ The final two columns ending with “_adj” show the budget and revenue of the 
 
 Questions:
 1.Which genres are more popular and profitable?
+
 2.Which director make the most profit?
+
 3.What keywords are the most popular?
+
 4.Which movies are the most popular or profitable?
+
 5.The correlation between features?
 
 Procedure
