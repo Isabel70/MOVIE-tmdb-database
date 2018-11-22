@@ -9,6 +9,7 @@ The final two columns ending with “_adj” show the budget and revenue of the 
 
 
 Questions:
+
 1.Which genres are more popular and profitable?
 
 2.Which director make the most profit?
